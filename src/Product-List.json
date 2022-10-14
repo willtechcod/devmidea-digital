@@ -1,0 +1,59 @@
+{
+    "productcard": [
+        {
+            "id": 1,
+            "image": {
+                "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSugvq0tsiktvDi5bb_Fthdj5MN8nT7bHNeqMVznR2AmYUsWsv7FIMhRJNFMjYt79NndKZIUlIfG20&usqp=CAc",
+                "alt": "foto de um smartwatch"
+            },
+            "title": "MERCADÃO ONLINE",
+            "name": "Smartwatch Xiaomi Mi Band 4",
+            "de": 129.99,
+            "por": 100.99
+        },
+        {
+            "id": 2,
+            "image": {
+                "url": "https://http2.mlstatic.com/D_NQ_NP_996589-MLB50771150533_072022-O.webp",
+                "alt": "foto de uma camera de seguranca wifi"
+            },
+            "title": "MERCADÃO ONLINE",
+            "name": "Camera de seguranca WiFi 5G",
+            "de": 189.99,
+            "por": 118.89
+        },
+        {
+            "id": 3,
+            "image": {
+                "url": "https://images.kabum.com.br/produtos/fotos/108149/amazon-smart-home-echo-dot-alexa-3-geracao-preto_1586443805_gg.jpg",
+                "alt": "foto alexa assistente"
+            },
+            "title": "MERCADÃO ONLINE",
+            "name": "Echo Dot (3ª Geração) com Alexa",
+            "de": 376.26,
+            "por": 224.15
+        },
+        {
+            "id": 4,
+            "image": {
+                "url": "https://m.media-amazon.com/images/I/61kFL7ywsZS._AC_SL1500_.jpg",
+                "alt": "foto Fone de Ouvido Bluetooth JBL HZY7589"
+            },
+            "title": "MERCADÃO ONLINE",
+            "name": "Fone de Ouvido Bluetooth JBL",
+            "de": 211.15,
+            "por": 179.99
+        },
+        {
+            "id": 5,
+            "image": {
+                "url": "https://m.media-amazon.com/images/I/41Pm0iSCn1L._AC_SX569_.jpg",
+                "alt": "foto de um Mouse gamer"
+            },
+            "title": "MERCADÃO ONLINE",
+            "name": "Mouse gamer MS-G260 x7 RGB",
+            "de": 39.99,
+            "por": 32.99
+        }
+    ]
+}
